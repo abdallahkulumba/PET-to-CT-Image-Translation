@@ -80,6 +80,15 @@ pix2pix_dataset/
 
 After training, the model can generate realistic CT images from PET scans. The notebook includes visualization functions to compare input PET, ground truth CT, and predicted CT images.
 
+# Results
+
+## Output 1
+![Output 1](output1.png)
+
+## Output 2
+![Output 2](output2.png)
+
+
 Example output shows the model's ability to translate PET intensity distributions to CT anatomical structures.
 
 ## Files Description
